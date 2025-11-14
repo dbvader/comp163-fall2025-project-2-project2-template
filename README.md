@@ -143,3 +143,31 @@ Feel free to add your own creative touches for bonus points:
 - Additional character classes beyond the three required
 - More weapon types with different properties
 - Enhanced special abilities with unique effects
+
+Doccumentatiom:
+Bonus Creative Features: Did you add anything unique?
+I added a a feature that randomly give a favorite color between Red, Green, and Blue
+
+
+AI Usage: What AI assistance did you use and where?
+I used AI(chatgpt) to ensure super() was being used correctly addtionally I used it to double check and ensure code was correctly entered and broke no rules
+
+How to Run:
+
+Open your terminal or command prompt.
+
+Go to the folder where your project file is saved.
+
+Type this and press Enter: python Project2_starter.py
+
+The program will start and show:
+
+Each character’s stats
+
+Their attacks
+
+Their special abilities
+
+Weapon info
+
+A test battle
